@@ -1,0 +1,82 @@
+.my-website {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f4f4f4;
+
+  &__header {
+    background-color: #333;
+    color: #fff;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    & .my-website__menu {
+      ul {
+        display: flex;
+        gap: 20px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+          a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 8px 16px;
+            border-radius: 4px;
+            transition:
+              background-color 0.3s ease,
+              color 0.3s ease;
+
+            &:hover {
+              background-color: #ff9800;
+              color: #fff;
+            }
+          }
+        }
+      }
+    }
+
+    & .my-website__account {
+      a {
+        color: #ff9800;
+        text-decoration: none;
+        margin-left: 15px;
+        font-size: 16px;
+        padding: 8px 16px;
+        border-radius: 4px;
+        transition:
+          background-color 0.3s ease,
+          color 0.3s ease;
+
+        &:hover {
+          background-color: #fff;
+          color: #333;
+        }
+      }
+    }
+  }
+
+  &__main-content {
+    flex-grow: 1;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  &__footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+    margin-top: auto;
+
+    &-text {
+      font-size: 14px;
+      margin: 0;
+    }
+  }
+}
