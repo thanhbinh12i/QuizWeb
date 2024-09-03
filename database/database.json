@@ -1,0 +1,1636 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "fullName": "Thanh Binh",
+      "email": "nptbinh17092004@gmail.com",
+      "password": "binh123123",
+      "token": "ádknapofnsfljas"
+    },
+    {
+      "id": "640e",
+      "fullName": "Binhdaynee",
+      "email": "binh@gmail.com",
+      "password": "123",
+      "token": "2k6311sk33qk4H3"
+    },
+    {
+      "id": "633e",
+      "fullName": "BinhIdol",
+      "email": "binhidol@gmail.com",
+      "password": "123",
+      "token": "Cna6nakiklcl22l"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "name": "HTML"
+    },
+    {
+      "id": "2",
+      "name": "CSS"
+    },
+    {
+      "id": "3",
+      "name": "JavaScript"
+    },
+    {
+      "id": "4",
+      "name": "ReactJS"
+    },
+    {
+      "id": "5",
+      "name": "ASP.NET"
+    }
+  ],
+  "questions": [
+    {
+      "id": "101",
+      "topicId": "1",
+      "question": "What does HTML stand for?",
+      "answers": [
+        "HyperText Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "102",
+      "topicId": "1",
+      "question": "Who is making the Web standards?",
+      "answers": [
+        "Google",
+        "Microsoft",
+        "The World Wide Web Consortium"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "103",
+      "topicId": "1",
+      "question": "Choose the correct HTML element for the largest heading:",
+      "answers": [
+        "<h1>",
+        "<heading>",
+        "<h6>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "104",
+      "topicId": "1",
+      "question": "What is the correct HTML element for inserting a line break?",
+      "answers": [
+        "<br>",
+        "<lb>",
+        "<break>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "105",
+      "topicId": "1",
+      "question": "What is the correct HTML for adding a background color?",
+      "answers": [
+        "<body bg='yellow'>",
+        "<background>yellow</background>",
+        "<body style='background-color:yellow;'>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "106",
+      "topicId": "1",
+      "question": "Choose the correct HTML element to define important text",
+      "answers": [
+        "<important>",
+        "<b>",
+        "<strong>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "107",
+      "topicId": "1",
+      "question": "Choose the correct HTML element to define emphasized text",
+      "answers": [
+        "<i>",
+        "<em>",
+        "<italic>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "108",
+      "topicId": "1",
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "answers": [
+        "<a url='http://example.com'>Example</a>",
+        "<a>http://example.com</a>",
+        "<a href='http://example.com'>Example</a>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "109",
+      "topicId": "1",
+      "question": "Which character is used to indicate an end tag?",
+      "answers": [
+        "^",
+        "<",
+        "/"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "110",
+      "topicId": "1",
+      "question": "How can you open a link in a new tab/browser window?",
+      "answers": [
+        "<a href='url' new>",
+        "<a href='url' target='_blank'>",
+        "<a href='url' target='new'>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "111",
+      "topicId": "1",
+      "question": "Which of these elements are all <table> elements?",
+      "answers": [
+        "<table><tr><tt>",
+        "<table><tr><td>",
+        "<thead><body><tr>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "112",
+      "topicId": "1",
+      "question": "Inline elements are normally displayed without starting a new line.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "113",
+      "topicId": "1",
+      "question": "How can you make a numbered list?",
+      "answers": [
+        "<list>",
+        "<ul>",
+        "<ol>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "114",
+      "topicId": "1",
+      "question": "How can you make a bulleted list?",
+      "answers": [
+        "<ul>",
+        "<ol>",
+        "<list>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "115",
+      "topicId": "1",
+      "question": "What is the correct HTML for making a checkbox?",
+      "answers": [
+        "<check>",
+        "<input type='checkbox'>",
+        "<checkbox>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "116",
+      "topicId": "1",
+      "question": "What is the correct HTML for making a text input field?",
+      "answers": [
+        "<input type='textfield'>",
+        "<input type='text'>",
+        "<textinput>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "117",
+      "topicId": "1",
+      "question": "What is the correct HTML for making a drop-down list?",
+      "answers": [
+        "<input type='dropdown'>",
+        "<list>",
+        "<select>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "118",
+      "topicId": "1",
+      "question": "What is the correct HTML for making a text area?",
+      "answers": [
+        "<input type='textarea'>",
+        "<textarea>",
+        "<input type='textbox'>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "119",
+      "topicId": "1",
+      "question": "What is the correct HTML for inserting an image?",
+      "answers": [
+        "<img href='image.jpg' alt='MyImage'>",
+        "<img alt='MyImage'>image.jpg</img>",
+        "<img src='image.jpg' alt='MyImage'>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "120",
+      "topicId": "1",
+      "question": "What does the <a> element do in HTML?",
+      "answers": [
+        "Creates a hyperlink",
+        "Adds an anchor point",
+        "Formats text"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "121",
+      "topicId": "1",
+      "question": "Which HTML attribute is used to define inline styles?",
+      "answers": [
+        "style",
+        "class",
+        "font"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "122",
+      "topicId": "1",
+      "question": "Which HTML attribute is used to specify the character encoding for the HTML document?",
+      "answers": [
+        "charset",
+        "encoding",
+        "lang"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "123",
+      "topicId": "1",
+      "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+      "answers": [
+        "title",
+        "alt",
+        "src"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "124",
+      "topicId": "1",
+      "question": "What is the correct HTML for making a radio button?",
+      "answers": [
+        "<input type='radio'>",
+        "<input type='radiobutton'>",
+        "<radio>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "125",
+      "topicId": "1",
+      "question": "Which doctype is correct for HTML5?",
+      "answers": [
+        "<!DOCTYPE html>",
+        "<!DOCTYPE HTML5>",
+        "<!DOCTYPE html5>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "201",
+      "topicId": "2",
+      "question": "What does CSS stand for?",
+      "answers": [
+        "Colorful Style Sheets",
+        "Cascading Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "202",
+      "topicId": "2",
+      "question": "Which HTML attribute is used to define inline styles?",
+      "answers": [
+        "style",
+        "class",
+        "styles"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "203",
+      "topicId": "2",
+      "question": "Which is the correct CSS syntax?",
+      "answers": [
+        "body:color=black;",
+        "{body;color:black;}",
+        "body {color: black;}"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "204",
+      "topicId": "2",
+      "question": "How do you insert a comment in a CSS file?",
+      "answers": [
+        "// this is a comment",
+        "/* this is a comment */",
+        "// this is a comment //"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "205",
+      "topicId": "2",
+      "question": "Which property is used to change the background color?",
+      "answers": [
+        "color",
+        "background-color",
+        "bgcolor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "206",
+      "topicId": "2",
+      "question": "How do you add a background color for all <h1> elements?",
+      "answers": [
+        "h1 {background-color:#FFFFFF;}",
+        "all.h1 {background-color:#FFFFFF;}",
+        "h1.all {background-color:#FFFFFF;}"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "207",
+      "topicId": "2",
+      "question": "Which CSS property controls the text size?",
+      "answers": [
+        "font-style",
+        "text-size",
+        "font-size"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "208",
+      "topicId": "2",
+      "question": "What is the correct CSS syntax to make all the <p> elements bold?",
+      "answers": [
+        "<p style='text-size:bold;'>",
+        "p {font-weight:bold;}",
+        "<p style='font-size:bold;'>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "209",
+      "topicId": "2",
+      "question": "How do you display a border like this: The top border = 10 pixels, The bottom border = 5 pixels, The left border = 20 pixels, The right border = 1pixel?",
+      "answers": [
+        "border-width:10px 20px 5px 1px;",
+        "border-width:10px 1px 5px 20px;",
+        "border-width:10px 5px 20px 1px;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "210",
+      "topicId": "2",
+      "question": "Which property is used to change the font of an element?",
+      "answers": [
+        "font-family",
+        "font-style",
+        "font-weight"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "211",
+      "topicId": "2",
+      "question": "How do you make the text bold?",
+      "answers": [
+        "style:bold;",
+        "font:bold;",
+        "font-weight:bold;"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "212",
+      "topicId": "2",
+      "question": "Which property is used to change the left margin of an element?",
+      "answers": [
+        "indent",
+        "margin-left",
+        "padding-left"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "213",
+      "topicId": "2",
+      "question": "When using the padding property; are you allowed to use negative values?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "214",
+      "topicId": "2",
+      "question": "How do you make a list that lists its items with squares?",
+      "answers": [
+        "list-style-type: square;",
+        "list-type: square;",
+        "list: square;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "215",
+      "topicId": "2",
+      "question": "How do you select an element with id 'demo'?",
+      "answers": [
+        "#demo",
+        ".demo",
+        "demo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "216",
+      "topicId": "2",
+      "question": "How do you select elements with class name 'test'?",
+      "answers": [
+        ".test",
+        "#test",
+        "*test"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "217",
+      "topicId": "2",
+      "question": "How do you group selectors?",
+      "answers": [
+        "Separate each selector with a space",
+        "Separate each selector with a plus sign",
+        "Separate each selector with a comma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "218",
+      "topicId": "2",
+      "question": "What is the default value of the position property?",
+      "answers": [
+        "static",
+        "absolute",
+        "fixed"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "219",
+      "topicId": "2",
+      "question": "Which CSS property is used to change the text color of an element?",
+      "answers": [
+        "fgcolor",
+        "color",
+        "text-color"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "220",
+      "topicId": "2",
+      "question": "Which CSS property is used to change the spacing between lines of text?",
+      "answers": [
+        "letter-spacing",
+        "line-height",
+        "text-spacing"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "221",
+      "topicId": "2",
+      "question": "Which CSS property is used to control the layout?",
+      "answers": [
+        "display",
+        "layout",
+        "table"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "222",
+      "topicId": "2",
+      "question": "Which CSS property is used to create space between the element's border and inner content?",
+      "answers": [
+        "padding",
+        "margin",
+        "spacing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "223",
+      "topicId": "2",
+      "question": "How do you make a transparent background color?",
+      "answers": [
+        "background-color: transparent;",
+        "background-color: none;",
+        "background-color: invisible;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "224",
+      "topicId": "2",
+      "question": "How do you make the text italic?",
+      "answers": [
+        "font-style:italic;",
+        "font:italic;",
+        "font-variant:italic;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "225",
+      "topicId": "2",
+      "question": "Which CSS property is used to control the flow of text?",
+      "answers": [
+        "overflow",
+        "text-overflow",
+        "white-space"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "301",
+      "topicId": "3",
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "answers": [
+        "<javascript>",
+        "<js>",
+        "<script>",
+        "<scripting>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "302",
+      "topicId": "3",
+      "question": "Where is the correct place to insert a JavaScript?",
+      "answers": [
+        "The <head> section",
+        "Both the <head> section and the <body> section are correct",
+        "The <body> section"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "303",
+      "topicId": "3",
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "answers": [
+        "<script src='xxx.js'>",
+        "<script href='xxx.js'>",
+        "<script name='xxx.js'>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "304",
+      "topicId": "3",
+      "question": "The external JavaScript file must contain the <script> tag.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "305",
+      "topicId": "3",
+      "question": "How do you write 'Hello World' in an alert box?",
+      "answers": [
+        "msg('Hello World');",
+        "alert('Hello World');",
+        "msgBox('Hello World');"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "306",
+      "topicId": "3",
+      "question": "How do you create a function in JavaScript?",
+      "answers": [
+        "function myFunction()",
+        "function:myFunction()",
+        "function = myFunction()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "307",
+      "topicId": "3",
+      "question": "How do you call a function named 'myFunction'?",
+      "answers": [
+        "call myFunction()",
+        "call function myFunction()",
+        "myFunction()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "308",
+      "topicId": "3",
+      "question": "How to write an IF statement in JavaScript?",
+      "answers": [
+        "if i == 5 then",
+        "if (i == 5)",
+        "if i = 5 then"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "309",
+      "topicId": "3",
+      "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+      "answers": [
+        "if (i != 5)",
+        "if i <> 5",
+        "if (i <> 5)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "310",
+      "topicId": "3",
+      "question": "How does a WHILE loop start?",
+      "answers": [
+        "while (i <= 10; i++)",
+        "while (i <= 10)",
+        "while i = 1 to 10"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "311",
+      "topicId": "3",
+      "question": "How does a FOR loop start?",
+      "answers": [
+        "for i = 1 to 5",
+        "for (i <= 5; i++)",
+        "for (i = 0; i <= 5; i++)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "312",
+      "topicId": "3",
+      "question": "How can you add a comment in JavaScript?",
+      "answers": [
+        "<!-- This is a comment -->",
+        "// This is a comment",
+        "'This is a comment"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "313",
+      "topicId": "3",
+      "question": "How to insert a comment that has more than one line?",
+      "answers": [
+        "// This comment has more than one line //",
+        "/* This comment has more than one line */",
+        "<!-- This comment has more than one line -->"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "314",
+      "topicId": "3",
+      "question": "What is the correct way to write a JavaScript array?",
+      "answers": [
+        "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+        "var colors = ['red', 'green', 'blue']",
+        "var colors = (1:'red', 2:'green', 3:'blue')"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "315",
+      "topicId": "3",
+      "question": "How do you round the number 7.25 to the nearest integer?",
+      "answers": [
+        "Math.round(7.25)",
+        "Math.rnd(7.25)",
+        "round(7.25)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "316",
+      "topicId": "3",
+      "question": "How do you find the number with the highest value of x and y?",
+      "answers": [
+        "ceil(x, y)",
+        "Math.max(x, y)",
+        "Math.ceil(x, y)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "317",
+      "topicId": "3",
+      "question": "What is the correct JavaScript syntax for opening a new window called 'w2'?",
+      "answers": [
+        "w2 = window.open('http://www.example.com');",
+        "w2 = window.new('http://www.example.com');"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "318",
+      "topicId": "3",
+      "question": "JavaScript is the same as Java.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "319",
+      "topicId": "3",
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "answers": [
+        "onchange",
+        "onclick",
+        "onmouseclick"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "320",
+      "topicId": "3",
+      "question": "How do you declare a JavaScript variable?",
+      "answers": [
+        "var carName;",
+        "v carName;",
+        "variable carName;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "321",
+      "topicId": "3",
+      "question": "Which operator is used to assign a value to a variable?",
+      "answers": [
+        "*",
+        "=",
+        "-"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "322",
+      "topicId": "3",
+      "question": "What will the following code return: Boolean(10 > 9)?",
+      "answers": [
+        "true",
+        "false",
+        "NaN"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "323",
+      "topicId": "3",
+      "question": "Is JavaScript case-sensitive?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "324",
+      "topicId": "3",
+      "question": "How do you write a JavaScript object?",
+      "answers": [
+        "var person = {firstName:'John', lastName:'Doe', age:50, eyeColor:'blue'};",
+        "var person = [firstName='John', lastName='Doe', age=50, eyeColor='blue'];",
+        "var person = (firstName:'John', lastName:'Doe', age:50, eyeColor:'blue');"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "325",
+      "topicId": "3",
+      "question": "Which of the following is a JavaScript framework?",
+      "answers": [
+        "React",
+        "Laravel",
+        "Django",
+        "ASP.NET"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "401",
+      "topicId": "4",
+      "question": "What is ReactJS?",
+      "answers": [
+        "A JavaScript library for building user interfaces",
+        "A CSS framework",
+        "A database management tool"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "402",
+      "topicId": "4",
+      "question": "Who developed ReactJS?",
+      "answers": [
+        "Google",
+        "Facebook",
+        "Microsoft"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "403",
+      "topicId": "4",
+      "question": "Which of the following is used to create components in React?",
+      "answers": [
+        "Functions",
+        "Classes",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "404",
+      "topicId": "4",
+      "question": "What is JSX?",
+      "answers": [
+        "JavaScript XML",
+        "JavaScript Extension",
+        "JavaScript eXtension Syntax"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "405",
+      "topicId": "4",
+      "question": "How do you create a React component using a function?",
+      "answers": [
+        "function MyComponent() { return <div>Hello</div>; }",
+        "function MyComponent = () => { return <div>Hello</div>; }",
+        "function MyComponent { return <div>Hello</div>; }"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "406",
+      "topicId": "4",
+      "question": "How do you pass data to a React component?",
+      "answers": [
+        "Using state",
+        "Using props",
+        "Using setState"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "407",
+      "topicId": "4",
+      "question": "What is the purpose of the 'key' prop?",
+      "answers": [
+        "To identify elements in a list",
+        "To pass data to components",
+        "To style components"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "408",
+      "topicId": "4",
+      "question": "What is the use of useState in React?",
+      "answers": [
+        "To manage state in functional components",
+        "To manage side effects",
+        "To create custom hooks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "409",
+      "topicId": "4",
+      "question": "What is a React hook?",
+      "answers": [
+        "A special function to manage state and side effects",
+        "A class component",
+        "A way to render JSX"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "410",
+      "topicId": "4",
+      "question": "Which hook is used to perform side effects in functional components?",
+      "answers": [
+        "useState",
+        "useEffect",
+        "useContext"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "411",
+      "topicId": "4",
+      "question": "How do you create a React component using a class?",
+      "answers": [
+        "class MyComponent extends React.Component { render() { return <div>Hello</div>; } }",
+        "class MyComponent() { return <div>Hello</div>; }",
+        "class MyComponent extends React { render() { return <div>Hello</div>; } }"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "412",
+      "topicId": "4",
+      "question": "What does 'setState' do?",
+      "answers": [
+        "Updates the component's state",
+        "Triggers a re-render",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "413",
+      "topicId": "4",
+      "question": "What is the use of useEffect in React?",
+      "answers": [
+        "To manage side effects",
+        "To fetch data",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "414",
+      "topicId": "4",
+      "question": "How do you conditionally render components in React?",
+      "answers": [
+        "Using if statements",
+        "Using the ternary operator",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "415",
+      "topicId": "4",
+      "question": "How do you create a ref in React?",
+      "answers": [
+        "Using React.createRef()",
+        "Using useRef()",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "416",
+      "topicId": "4",
+      "question": "What is a higher-order component (HOC) in React?",
+      "answers": [
+        "A component that renders another component",
+        "A function that takes a component and returns a new component",
+        "A component that handles state"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "417",
+      "topicId": "4",
+      "question": "What is the use of useContext in React?",
+      "answers": [
+        "To consume context values",
+        "To create a new context",
+        "To manage side effects"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "418",
+      "topicId": "4",
+      "question": "How do you create context in React?",
+      "answers": [
+        "Using React.createContext()",
+        "Using useContext()",
+        "Using React.createElement()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "419",
+      "topicId": "4",
+      "question": "What is the purpose of React Router?",
+      "answers": [
+        "To manage navigation between different components",
+        "To handle HTTP requests",
+        "To create Redux store"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "420",
+      "topicId": "4",
+      "question": "What is the use of useReducer in React?",
+      "answers": [
+        "To manage complex state logic",
+        "To handle side effects",
+        "To create custom hooks"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "421",
+      "topicId": "4",
+      "question": "What is the virtual DOM in React?",
+      "answers": [
+        "An in-memory representation of the actual DOM",
+        "A new DOM API",
+        "A way to interact with the real DOM"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "422",
+      "topicId": "4",
+      "question": "How does React handle data flow?",
+      "answers": [
+        "Unidirectional data flow",
+        "Bidirectional data flow",
+        "None"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "423",
+      "topicId": "4",
+      "question": "How do you optimize performance in a React application?",
+      "answers": [
+        "Using React.memo",
+        "Using shouldComponentUpdate",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "424",
+      "topicId": "4",
+      "question": "What is the difference between controlled and uncontrolled components in React?",
+      "answers": [
+        "Controlled components are controlled by React state, uncontrolled components store their own state internally",
+        "Uncontrolled components are controlled by React state, controlled components store their own state internally",
+        "Both are the same"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "425",
+      "topicId": "4",
+      "question": "What is Redux?",
+      "answers": [
+        "A state management library",
+        "A UI library",
+        "A CSS framework"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "501",
+      "topicId": "5",
+      "question": "What is ASP.NET?",
+      "answers": [
+        "A web development framework from Microsoft",
+        "A database management system",
+        "A JavaScript library"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "502",
+      "topicId": "5",
+      "question": "Which language is primarily used for ASP.NET development?",
+      "answers": [
+        "JavaScript",
+        "C#",
+        "Python"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "503",
+      "topicId": "5",
+      "question": "What does the acronym MVC stand for in ASP.NET MVC?",
+      "answers": [
+        "Model View Controller",
+        "Module View Component",
+        "Model View Container"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "504",
+      "topicId": "5",
+      "question": "What is Razor in ASP.NET?",
+      "answers": [
+        "A markup syntax for embedding server-based code into web pages",
+        "A CSS framework",
+        "A type of database"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "505",
+      "topicId": "5",
+      "question": "What is the purpose of Web API in ASP.NET?",
+      "answers": [
+        "To create HTTP services",
+        "To manage databases",
+        "To handle server-side rendering"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "506",
+      "topicId": "5",
+      "question": "What is the main function of the Global.asax file in ASP.NET?",
+      "answers": [
+        "To handle application-level events",
+        "To define routing",
+        "To create controllers"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "507",
+      "topicId": "5",
+      "question": "How can you deploy an ASP.NET application?",
+      "answers": [
+        "Copying files to the server",
+        "Using FTP",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "508",
+      "topicId": "5",
+      "question": "What is the use of the ViewBag in ASP.NET MVC?",
+      "answers": [
+        "To pass data from a controller to a view",
+        "To store session data",
+        "To manage cookies"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "509",
+      "topicId": "5",
+      "question": "What is a partial view in ASP.NET MVC?",
+      "answers": [
+        "A reusable view component",
+        "A controller method",
+        "A CSS class"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "510",
+      "topicId": "5",
+      "question": "What is Entity Framework in ASP.NET?",
+      "answers": [
+        "An ORM framework for .NET applications",
+        "A CSS framework",
+        "A testing tool"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "511",
+      "topicId": "5",
+      "question": "How do you manage session state in ASP.NET?",
+      "answers": [
+        "Using Session objects",
+        "Using cookies",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "512",
+      "topicId": "5",
+      "question": "What is the role of a controller in ASP.NET MVC?",
+      "answers": [
+        "To handle user input and interactions",
+        "To manage views",
+        "To handle database queries"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "513",
+      "topicId": "5",
+      "question": "How can you secure an ASP.NET application?",
+      "answers": [
+        "Using authentication and authorization",
+        "Using HTTPS",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "514",
+      "topicId": "5",
+      "question": "What is a Web Form in ASP.NET?",
+      "answers": [
+        "A server-side page framework for building dynamic web pages",
+        "A database management system",
+        "A JavaScript library"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "515",
+      "topicId": "5",
+      "question": "What is the difference between ASP.NET Web Forms and ASP.NET MVC?",
+      "answers": [
+        "Web Forms use a drag-and-drop interface, MVC follows a model-view-controller pattern",
+        "Web Forms are for desktop apps, MVC is for web apps",
+        "Both are the same"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "516",
+      "topicId": "5",
+      "question": "What is the purpose of a model in ASP.NET MVC?",
+      "answers": [
+        "To represent data and business logic",
+        "To handle user input",
+        "To create views"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "517",
+      "topicId": "5",
+      "question": "What is IIS in the context of ASP.NET?",
+      "answers": [
+        "Internet Information Services, a web server",
+        "A database server",
+        "A development tool"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "518",
+      "topicId": "5",
+      "question": "What is middleware in ASP.NET Core?",
+      "answers": [
+        "Software that handles requests and responses in the application pipeline",
+        "A type of database",
+        "A JavaScript library"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "519",
+      "topicId": "5",
+      "question": "How do you create a RESTful service in ASP.NET?",
+      "answers": [
+        "Using ASP.NET Web API",
+        "Using ASP.NET MVC",
+        "Using ASP.NET Web Forms"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "520",
+      "topicId": "5",
+      "question": "What is the purpose of ASP.NET Core?",
+      "answers": [
+        "A cross-platform framework for building modern, cloud-based, internet-connected applications",
+        "A testing framework",
+        "A CSS framework"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "521",
+      "topicId": "5",
+      "question": "How do you handle errors in an ASP.NET application?",
+      "answers": [
+        "Using try-catch blocks",
+        "Using error pages",
+        "Both"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "522",
+      "topicId": "5",
+      "question": "What is Blazor in ASP.NET?",
+      "answers": [
+        "A framework for building interactive web UIs using C#",
+        "A database management tool",
+        "A JavaScript framework"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "523",
+      "topicId": "5",
+      "question": "What is the role of the Startup class in ASP.NET Core?",
+      "answers": [
+        "To configure services and the app's request pipeline",
+        "To manage database connections",
+        "To create views"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "524",
+      "topicId": "5",
+      "question": "What is dependency injection in ASP.NET Core?",
+      "answers": [
+        "A design pattern for managing object dependencies",
+        "A database connection method",
+        "A type of middleware"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "525",
+      "topicId": "5",
+      "question": "What is the purpose of the appsettings.json file in ASP.NET Core?",
+      "answers": [
+        "To store configuration settings",
+        "To define database schema",
+        "To manage routes"
+      ],
+      "correctAnswer": 0
+    }
+  ],
+  "answers": [
+    {
+      "id": "855d",
+      "userId": 123,
+      "topicId": "3",
+      "answers": [
+        {
+          "questionId": "301",
+          "answer": 2
+        },
+        {
+          "questionId": "302",
+          "answer": 0
+        },
+        {
+          "questionId": "303",
+          "answer": 2
+        },
+        {
+          "questionId": "304",
+          "answer": 1
+        },
+        {
+          "questionId": "305",
+          "answer": 2
+        },
+        {
+          "questionId": "306",
+          "answer": 0
+        },
+        {
+          "questionId": "307",
+          "answer": 1
+        },
+        {
+          "questionId": "308",
+          "answer": 2
+        },
+        {
+          "questionId": "309",
+          "answer": 1
+        },
+        {
+          "questionId": "310",
+          "answer": 1
+        },
+        {
+          "questionId": "311",
+          "answer": 1
+        },
+        {
+          "questionId": "312",
+          "answer": 1
+        },
+        {
+          "questionId": "313",
+          "answer": 1
+        },
+        {
+          "questionId": "314",
+          "answer": 2
+        },
+        {
+          "questionId": "315",
+          "answer": 2
+        },
+        {
+          "questionId": "316",
+          "answer": 1
+        },
+        {
+          "questionId": "317",
+          "answer": 0
+        },
+        {
+          "questionId": "318",
+          "answer": 1
+        },
+        {
+          "questionId": "319",
+          "answer": 1
+        },
+        {
+          "questionId": "320",
+          "answer": 0
+        },
+        {
+          "questionId": "321",
+          "answer": 2
+        },
+        {
+          "questionId": "322",
+          "answer": 0
+        },
+        {
+          "questionId": "323",
+          "answer": 1
+        },
+        {
+          "questionId": "324",
+          "answer": 0
+        },
+        {
+          "questionId": "325",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "3a3b",
+      "userId": 123,
+      "topicId": "5",
+      "answers": [
+        {
+          "questionId": "501",
+          "answer": 1
+        },
+        {
+          "questionId": "502",
+          "answer": 2
+        },
+        {
+          "questionId": "503",
+          "answer": 1
+        },
+        {
+          "questionId": "504",
+          "answer": 1
+        },
+        {
+          "questionId": "505",
+          "answer": 0
+        },
+        {
+          "questionId": "506",
+          "answer": 1
+        },
+        {
+          "questionId": "507",
+          "answer": 1
+        },
+        {
+          "questionId": "508",
+          "answer": 0
+        },
+        {
+          "questionId": "509",
+          "answer": 2
+        },
+        {
+          "questionId": "510",
+          "answer": 0
+        },
+        {
+          "questionId": "511",
+          "answer": 1
+        },
+        {
+          "questionId": "512",
+          "answer": 2
+        },
+        {
+          "questionId": "513",
+          "answer": 0
+        },
+        {
+          "questionId": "514",
+          "answer": 0
+        },
+        {
+          "questionId": "515",
+          "answer": 2
+        },
+        {
+          "questionId": "516",
+          "answer": 0
+        },
+        {
+          "questionId": "517",
+          "answer": 2
+        },
+        {
+          "questionId": "518",
+          "answer": 0
+        },
+        {
+          "questionId": "519",
+          "answer": 0
+        },
+        {
+          "questionId": "520",
+          "answer": 1
+        },
+        {
+          "questionId": "521",
+          "answer": 1
+        },
+        {
+          "questionId": "522",
+          "answer": 2
+        },
+        {
+          "questionId": "523",
+          "answer": 2
+        },
+        {
+          "questionId": "524",
+          "answer": 1
+        },
+        {
+          "questionId": "525",
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}
